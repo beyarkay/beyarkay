@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boyd Kane</h1>
 <h3 align="center">I like combining robotics with machine learning</h3>
 
-You can see a nice summary of my profile on [coder stats](https://coderstats.net/github/#beyarkay).
+You can see nicely formatted summaries of my profile on [OSS insight](https://ossinsight.io/analyze/beyarkay) or [coder stats](https://coderstats.net/github/#beyarkay).
 
 - 🔭 I’m currently working on [eskom-calendar](https://github.com/beyarkay/eskom-calendar/), a completely free source of Eskom Loadshedding information.
 - I'm also completing my Master's in Computer Science at Stellenbosch University, South Africa
