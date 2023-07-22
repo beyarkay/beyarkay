@@ -1,17 +1,45 @@
-<h1 align="center">Hi 👋, I'm Boyd Kane</h1>
+<h1 align="center">Boyd R. Kane </h1>
+<h6 align="center">(aka BRK aka <code>b</code> <code>r</code> <code>k</code> aka bey-ar-kay)</h6>
 <h3 align="center">I like combining robotics with machine learning</h3>
 
 You can see nicely formatted summaries of my profile on [OSS insight](https://ossinsight.io/analyze/beyarkay) or [coder stats](https://coderstats.net/github/#beyarkay).
 
+And there's this website which ranks users by number of commits: [![ZA GitHub ranking](https://user-badge.committers.top/south_africa_public/beyarkay.svg)](https://user-badge.committers.top/south_africa_public/beyarkay)
+
 - 🔭 I’m currently working on [eskom-calendar](https://github.com/beyarkay/eskom-calendar/), a completely free source of Eskom Loadshedding information.
 - I'm also completing my Master's in Computer Science at Stellenbosch University, South Africa
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/beyarkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beyarkay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/boydrkane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boydrkane" height="30" width="40" /></a>
-<a href="https://instagram.com/boydrkane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boydrkane" height="30" width="40" /></a>
-</p>
+Message me on <a href="https://twitter.com/beyarkay" target="blank"><code>Twitter</code></a> (fast reply) or <a href="https://linkedin.com/in/boydrkane" target="blank"><code>LinkedIn</code></a> (business-related)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I enjoy exploring different tools, so have dabbled with a fair number of things over the years. Here's an approximate list:
+- Rust, Python, Typescript, Java, Haskell, HTML/CSS, Arduino, C++
+- Tailwind, Teloxide, Svelte, TensorFlow/Keras, BeautifulSoup, Godot, Shuttle.rs
+
+Here are some ideas/concepts that I think are cool
+- Regex, Bloom filters, bit boards, smaller bitboards
+
+I like fixing things, so if I can take 30m to make a fix to an open source library, I usually will:
+- [seaborn](https://github.com/mwaskom/seaborn/pull/2953): Fix: shifting margins caused by multiple rugplots
+- [pandas](https://github.com/pandas-dev/pandas/pull/54091): CLN: Replace confusing brackets with backticks
+- [rust-lang/rust](https://github.com/rust-lang/rust/pull/96038): docs: add link from zip to unzip
+- [awscurl](https://github.com/okigan/awscurl/pull/103):  Fix: Booleans verify and insecure are not interchangable
+- [zotero-reference](https://github.com/MuiseDestiny/zotero-reference/pull/170)
+- Shuttle
+  - [shuttle-docs](https://github.com/shuttle-hq/shuttle-docs/pull/120)
+  - [shuttle-docs](https://github.com/shuttle-hq/shuttle-docs/pull/129)
+  - [shuttle](https://github.com/shuttle-hq/shuttle/pull/1076)
+  - [shuttle](https://github.com/shuttle-hq/shuttle/pull/985)
+- Calio [1](https://github.com/oscarmcm/calio/pull/1) [2](https://github.com/oscarmcm/calio/pull/2)
+- [rust-analyzer](https://github.com/rust-lang/rust-analyzer/pull/15005)
+- tea.xyz [1](https://github.com/teaxyz/docs/pull/6) [2](https://github.com/teaxyz/cli/pull/595)
+- [matklad.github.io](https://github.com/matklad/matklad.github.io/pull/120)
+- [utoipa](https://github.com/juhaku/utoipa/pull/641)
+- [postman-code-generators](https://github.com/postmanlabs/postman-code-generators/pull/641)
+- [petgraph](https://github.com/petgraph/petgraph/pull/491)
+- [pyTooling/Actions](https://github.com/pyTooling/Actions/pull/52)
+- [keras](https://github.com/keras-team/keras/pull/17025)
+- [arduino/reference-en](https://github.com/arduino/reference-en/pull/891)
+- [tensorflow/tflite-micro](https://github.com/tensorflow/tflite-micro/pull/1393)
+- IsaacShelton/update-existing-release [1](https://github.com/IsaacShelton/update-existing-release/pull/1) [2](https://github.com/IsaacShelton/update-existing-release/pull/2)
+
+(You can use [this github search](https://github.com/pulls?page=2&q=is%3Apr+author%3A%40beyarkay+archived%3Afalse+sort%3Aupdated-desc+-repo%3Abeyarkay%2Feskom-calendar+is%3Amerged) to see the full list of PRs I've made which were merged and which were not from my main project eskom-calendar.)
