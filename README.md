@@ -1,5 +1,5 @@
 <h1 align="center">Boyd R. Kane </h1>
-<h6 align="center">(aka BRK aka <code>b</code> <code>r</code> <code>k</code> aka bey-ar-kay)</h6>
+<h6 align="center">(aka BRK aka <code>b</code> <code>r</code> <code>k</code> aka be-yar-kay)</h6>
 <h3 align="center">I like combining robotics with machine learning</h3>
 
 You can see nicely formatted summaries of my profile on [OSS insight](https://ossinsight.io/analyze/beyarkay) or [coder stats](https://coderstats.net/github/#beyarkay).
