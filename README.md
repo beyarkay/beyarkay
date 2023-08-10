@@ -42,4 +42,4 @@ I like fixing things, so if I can take 30m to make a fix to an open source libra
 - [tensorflow/tflite-micro](https://github.com/tensorflow/tflite-micro/pull/1393)
 - IsaacShelton/update-existing-release [1](https://github.com/IsaacShelton/update-existing-release/pull/1) [2](https://github.com/IsaacShelton/update-existing-release/pull/2)
 
-(You can use [this github search](https://github.com/pulls?page=2&q=is%3Apr+author%3A%40beyarkay+archived%3Afalse+sort%3Aupdated-desc+-repo%3Abeyarkay%2Feskom-calendar+is%3Amerged) to see the full list of PRs I've made which were merged and which were not from my main project eskom-calendar.)
+(You can use [this github search](https://github.com/pulls?q=is%3Apr+author%3Abeyarkay+archived%3Afalse+sort%3Aupdated-desc+-repo%3Abeyarkay%2Feskom-calendar+is%3Amerged+) to see the full list of PRs I've made which were merged and which were not from my main project eskom-calendar.)
