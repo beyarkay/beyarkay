@@ -2,6 +2,8 @@
 <h6 align="center">(aka BRK aka <code>b</code> <code>r</code> <code>k</code> aka be-yar-kay)</h6>
 <h3 align="center">I like combining robotics with machine learning</h3>
 
+<!-- <img src="header.svg" width="800" height="400" alt="Click to see the source"> -->
+
 You can see nicely formatted summaries of my profile on [OSS insight](https://ossinsight.io/analyze/beyarkay) or [coder stats](https://coderstats.net/github/#beyarkay).
 
 And there's this website which ranks users by number of commits: [![ZA GitHub ranking](https://user-badge.committers.top/south_africa_public/beyarkay.svg)](https://user-badge.committers.top/south_africa_public/beyarkay)
