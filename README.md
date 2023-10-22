@@ -45,3 +45,7 @@ I like fixing things, so if I can take 30m to make a fix to an open source libra
 - IsaacShelton/update-existing-release [1](https://github.com/IsaacShelton/update-existing-release/pull/1) [2](https://github.com/IsaacShelton/update-existing-release/pull/2)
 
 (You can use [this github search](https://github.com/pulls?q=is%3Apr+author%3Abeyarkay+archived%3Afalse+sort%3Aupdated-desc+-repo%3Abeyarkay%2Feskom-calendar+is%3Amerged+) to see the full list of PRs I've made which were merged and which were not from my main project eskom-calendar.)
+
+If you reach out to me, please include a Dune reference in your first message to indicate that you've read this page.
+
+This helps me figure out who's sending a million cold calls to random people online and who's actually interested in what I have to offer.
