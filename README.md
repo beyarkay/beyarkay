@@ -18,7 +18,7 @@ I enjoy exploring different tools, so have dabbled with a fair number of things 
 - Tailwind, Teloxide, Svelte, TensorFlow/Keras, BeautifulSoup, Godot, Shuttle.rs
 
 Here are some ideas/concepts that I think are cool
-- Regex, Bloom filters, bit boards, smaller bitboards
+- Regex, [Bloom filters](https://en.wikipedia.org/wiki/Bloom_filter), [bitboards](https://www.chessprogramming.org/Bitboards#The_Board_of_Sets), [smaller bitboards](https://www.chessprogramming.org/Magic_Bitboards), [gregarious catterpillar motion](https://youtu.be/kbFMkXTMucA), [how to communicate the presence of nuclear waste repositories to future generations](https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages)
 
 I like fixing things, so if I can take 30m to make a fix to an open source library, I usually will:
 - [seaborn](https://github.com/mwaskom/seaborn/pull/2953): Fix: shifting margins caused by multiple rugplots
