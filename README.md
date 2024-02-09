@@ -26,6 +26,7 @@ Here are some ideas/concepts that I think are cool
 - [Shamir's secrets sharing scheme](https://en.m.wikipedia.org/wiki/Shamir's_secret_sharing)
 - [blue LEDs](https://en.wikipedia.org/wiki/Light-emitting_diode#Blue_LED)
 - [charlieplexing](https://en.wikipedia.org/wiki/Charlieplexing)
+- [the remarkably simple mechanism behind knobs and dials](https://en.wikipedia.org/wiki/Potentiometer#Construction)
 
 I like fixing things, so if I can take 30m to make a fix to an open source library, I usually will:
 - [seaborn](https://github.com/mwaskom/seaborn/pull/2953): Fix: shifting margins caused by multiple rugplots
