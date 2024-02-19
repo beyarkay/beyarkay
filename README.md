@@ -27,6 +27,9 @@ Here are some ideas/concepts that I think are cool
 - [blue LEDs](https://en.wikipedia.org/wiki/Light-emitting_diode#Blue_LED)
 - [charlieplexing](https://en.wikipedia.org/wiki/Charlieplexing)
 - [the remarkably simple mechanism behind knobs and dials](https://en.wikipedia.org/wiki/Potentiometer#Construction)
+- Using logarithms to do multiplication without doing multiplication (à la this [Welsch Labs video](https://www.youtube.com/watch?v=A9WY_HZUK8Q)) (also [slide rules](https://en.wikipedia.org/wiki/Slide_rule) and analogue computers)
+- The idea of the Infinite Game [1](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games) [2](https://en.wikipedia.org/wiki/The_Infinite_Game)
+  > There are at least two kinds of games: finite and infinite. A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play. Finite games are those instrumental activities - from sports to politics to wars - in which the participants obey rules, recognize boundaries and announce winners and losers. The infinite game - there is only one - includes any authentic interaction, from touching to culture, that changes rules, plays with boundaries and exists solely for the purpose of continuing the game. A finite player seeks power; the infinite one displays self-sufficient strength.
 
 I like fixing things, so if I can take 30m to make a fix to an open source library, I usually will:
 - [seaborn](https://github.com/mwaskom/seaborn/pull/2953): Fix: shifting margins caused by multiple rugplots
