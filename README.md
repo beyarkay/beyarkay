@@ -40,6 +40,10 @@ Here are some ideas/concepts that I think are cool
   > seeks power; the infinite one displays self-sufficient strength.
 - [Five Hundred and Seven Mechanical Movements by Henry T. Brown](https://507movements.com/about.html)
 - Colour Spaces and human colour perception ([okLAB](https://www.youtube.com/watch?v=nJlZT5AE9zY), [Subtleties of Color](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/))
+- Byte Pair Encoding
+- How diffusion models generate images from noise
+- How generative adversarial networks pit two models against each other
+- How autoencoders perform dimensionality reduction
 
 
 I like fixing things, so if I can take 30m to make a fix to an open source library, I usually will:
