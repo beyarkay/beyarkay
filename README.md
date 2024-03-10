@@ -44,7 +44,7 @@ Here are some ideas/concepts that I think are cool
 - How diffusion models generate images from noise
 - How generative adversarial networks pit two models against each other
 - How autoencoders perform dimensionality reduction
-
+- the work by [antithesis](https://antithesis.com/blog/is_something_bugging_you/) on a bug-finding system that is automated and reproducible by running your entire codebase on a deterministic hypervisor
 
 I like fixing things, so if I can take 30m to make a fix to an open source library, I usually will:
 - [seaborn](https://github.com/mwaskom/seaborn/pull/2953): Fix: shifting margins caused by multiple rugplots
