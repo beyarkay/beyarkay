@@ -45,6 +45,18 @@ Here are some ideas/concepts that I think are cool
 - How generative adversarial networks pit two models against each other
 - How autoencoders perform dimensionality reduction
 - the work by [antithesis](https://antithesis.com/blog/is_something_bugging_you/) on a bug-finding system that is automated and reproducible by running your entire codebase on a deterministic hypervisor
+- This count-total-zeros algorithm:
+```
+function count-total-zeros (x)
+    if x = 0 return 32
+    n ← 0
+    if (x & 0x0000FFFF) = 0: n ← n + 16, x ← x >> 16
+    if (x & 0x000000FF) = 0: n ← n +  8, x ← x >>  8
+    if (x & 0x0000000F) = 0: n ← n +  4, x ← x >>  4
+    if (x & 0x00000003) = 0: n ← n +  2, x ← x >>  2
+    if (x & 0x00000001) = 0: n ← n +  1
+    return n
+```
 
 I like fixing things, so if I can take 30m to make a fix to an open source library, I usually will:
 - [seaborn](https://github.com/mwaskom/seaborn/pull/2953): Fix: shifting margins caused by multiple rugplots
