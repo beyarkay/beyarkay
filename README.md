@@ -4,7 +4,9 @@
 
 <!-- <img src="header.svg" width="800" height="400" alt="Click to see the source"> -->
 
-I'm currently working full time as an Embedded Systems Engineer at CubeSpace Satellites (I write the code to spin satellites in orbit).
+Currently I'm a MATS 9 fellow, working on AI safety to reduce the existential catastrophic risk due to AI systems smarter than you or I.
+
+Previously I worked full time as an Embedded Systems Engineer at CubeSpace Satellites (I wrote the code to spin satellites in orbit).
 
 Message me on <a href="https://twitter.com/beyarkay" target="blank"><code>Twitter</code></a> (fast reply) or <a href="https://linkedin.com/in/boydrkane" target="blank"><code>LinkedIn</code></a> (business-related)
 
